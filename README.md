@@ -1,234 +1,116 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗ ██╗██╗         ██████╗  █████╗  ██████╗ ██╗   ██╗██████╗
- ██║ ██╔╝██╔══██╗██╔══██╗██║██║         ██╔══██╗██╔══██╗██╔════╝ ██║   ██║██╔══██╗
- █████╔╝ ███████║██████╔╝██║██║         ██║  ██║███████║██║  ███╗██║   ██║██████╔╝
- ██╔═██╗ ██╔══██║██╔═══╝ ██║██║         ██║  ██║██╔══██║██║   ██║██║   ██║██╔══██╗
- ██║  ██╗██║  ██║██║     ██║███████╗    ██████╔╝██║  ██║╚██████╔╝╚██████╔╝██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝    ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
-```
+<h1><img src="assets/neon-name.gif" alt="Kapil Dagur" width="720"></h1>
 
-### Backend Engineer · Open Source Contributor · Agentic AI Enthusiast
+**Backend engineer** · Python, FastAPI, Django · Fintech
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kapildagur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapildagur)
-[![GitHub](https://img.shields.io/badge/GitHub-kapildagur-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kapildagur)
+📍 Noida, India &nbsp;·&nbsp; 🏦 RBI Account Aggregator systems &nbsp;·&nbsp; 🐍 Open source Python
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kapildagur-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDQuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://linkedin.com/in/kapildagur)
 [![Email](https://img.shields.io/badge/Email-kapildagur1306%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kapildagur1306@gmail.com)
-[![Location](https://img.shields.io/badge/📍-Noida%2C%20India-brightgreen?style=flat-square)](https://maps.google.com/?q=Noida,India)
-[![Portfolio](https://img.shields.io/badge/Portfolio-kapildagur.github.io-00E6A0?style=flat-square&logo=googlechrome&logoColor=white)](https://kapildagur.github.io)
-[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-orange?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/kapildagur/kapildagur.github.io/main/Resume_-_KAPIL_DAGUR.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kapildagur.github.io-0F766E?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAiLz48L3N2Zz4%3D)](https://kapildagur.github.io)
+[![Resume](https://img.shields.io/badge/Resume-PDF-B31B1B?style=flat-square&logo=readdotcv&logoColor=white)](https://raw.githubusercontent.com/kapildagur/kapildagur.github.io/main/Resume_-_KAPIL_DAGUR.pdf)
 
 </div>
 
----
+I'm a backend engineer focused on the parts of a system that users never see but always depend on: data models, query performance and APIs that stay predictable under load. Today that means regulated financial data flows at SurePass. In my own time, it means contributing to the Python database ecosystem through [fastapi-tenancy](https://github.com/fastapi-extensions/fastapi-tenancy) and SQLAlchemy.
 
-## `$ whoami`
+## 💼 Work
 
-```python
-class KapilDagur:
-    role        = "Software Engineer @ SurePass Technologies"
-    experience  = "3+ years"
-    location    = "Noida, India"
-    education   = "M.Tech CSE @ AKTU (2026, 8.29 CGPA) · B.Tech CSE (2024)"
+**Software Engineer · SurePass Technologies** &nbsp;<sub>Apr 2026 - present</sub>
 
-    expertise   = [
-        "Scalable RESTful APIs",
-        "RBI Account Aggregator & Consent Systems",
-        "Multi-tenant SaaS Platforms",
-        "Agentic AI & Model Context Protocol (MCP)",
-        "Open Source Contributions",
-        "DevOps & CI/CD Automation",
-    ]
+I work on the backend of finpass.ai, which delivers customer financial data to NBFC lenders under the RBI Account Aggregator framework.
 
-    currently_building = [
-        "fastapi-tenancy  →  Enterprise multi-tenancy library (PyPI)",
-        "MCP-powered AI agents bridging LLMs with real-world services",
-    ]
+- End-to-end consent lifecycle: request, approval, revocation and expiry
+- A vault that brings data from multiple aggregators into one secure store
+- Failover across AAs and TSPs, so one provider outage does not interrupt data delivery
+- A leaner bank statement analyzer: faster runs at lower cost
 
-    fun_fact = "2 commits merged into SQLAlchemy — Python's most-used ORM 🐍"
-```
+**Python Backend Developer · In2IT Technologies** &nbsp;<sub>Apr 2024 - Apr 2026</sub>
 
----
+Enterprise products for network and security teams.
 
-## `$ cat /metrics/impact.log`
+- **iProvision:** API latency down from 800 ms to 250 ms and 3x concurrent request capacity for 10,000+ users, using Redis, Celery and query tuning
+- **iDashboard** (an in-house Apache Superset replacement with live streaming) and **ProWatch** (access control with real-time event pipelines)
+- **Delivery:** CI/CD with Docker, GitHub Actions and Jenkins, resulting in 35% fewer production bugs and 60% faster deployments
 
-<div align="center">
+**Backend Developer (apprenticeship) · CodeQuotient** &nbsp;<sub>Jun 2023 - Dec 2023</sub>
 
-| Metric | Result |
-|--------|--------|
-| ⚡ API Response Time | 800ms → 250ms **(70% faster)** |
-| 🐛 Production Bugs | Reduced by **35%** |
-| 🚀 Deployment Time | Cut by **60%** |
-| 📈 Concurrent Requests | Scaled **3×** |
-| 👥 Users Served | **10,000+** concurrent |
-| 🔧 SQLAlchemy Commits Merged | **2** (released in 2.1.0b1) |
-| 📦 PyPI Packages Published | **1** production-ready |
-| 🧪 Test Coverage | **85–95%** across projects |
+Where I learned to build and tune production APIs.
 
-</div>
+- REST APIs in Node.js, Express and Django REST Framework
+- 40% faster PostgreSQL queries through indexing and connection pooling
 
----
+## 🧩 Open source
 
-## `$ ls -la /tech-stack/`
+### [fastapi-tenancy](https://github.com/fastapi-extensions/fastapi-tenancy)
 
-### Languages & Runtimes
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+[![PyPI](https://img.shields.io/pypi/v/fastapi-tenancy?style=flat-square&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/fastapi-tenancy/)
+[![Python](https://img.shields.io/pypi/pyversions/fastapi-tenancy?style=flat-square&logo=python&logoColor=white&color=3776AB)](https://pypi.org/project/fastapi-tenancy/)
+[![CI](https://img.shields.io/github/actions/workflow/status/fastapi-extensions/fastapi-tenancy/ci.yml?branch=main&style=flat-square&logo=githubactions&logoColor=white&label=CI)](https://github.com/fastapi-extensions/fastapi-tenancy/actions/workflows/ci.yml)
+[![Docs](https://img.shields.io/readthedocs/fastapi-tenancy?style=flat-square&logo=readthedocs&logoColor=white)](https://fastapi-tenancy.readthedocs.io)
+[![Coverage](https://img.shields.io/codecov/c/github/fastapi-extensions/fastapi-tenancy?style=flat-square&logo=codecov&logoColor=white)](https://codecov.io/gh/fastapi-extensions/fastapi-tenancy)
+[![License](https://img.shields.io/github/license/fastapi-extensions/fastapi-tenancy?style=flat-square&color=555555)](https://github.com/fastapi-extensions/fastapi-tenancy/blob/main/LICENSE)
 
-### Backend Frameworks
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+Multi-tenant SaaS on FastAPI usually means rewriting the same plumbing: resolving the tenant, scoping every session and keeping migrations in step. fastapi-tenancy turns that plumbing into configuration. It is fully async, runs on PostgreSQL, MySQL, SQLite and SQL Server, and keeps test coverage above 90%.
 
-### Databases & ORMs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+| Strategy | How tenants are isolated |
+|---|---|
+| Schema per tenant | One database, a separate schema for each tenant |
+| Database per tenant | A dedicated database for each tenant |
+| Row-level security | Shared tables, protected by PostgreSQL RLS policies |
+| Hybrid | A combination of the above |
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
-
-### Fintech / Account Aggregator
-![RBI AA](https://img.shields.io/badge/RBI_Account_Aggregator-0A6E4A?style=flat-square&logoColor=white)
-![Consent](https://img.shields.io/badge/Consent_Management-1A569B?style=flat-square&logoColor=white)
-![FIU/FIP](https://img.shields.io/badge/FIU%2FFIP_%26_TSP_Integration-6A3D9A?style=flat-square&logoColor=white)
-![BSA](https://img.shields.io/badge/Bank_Statement_Analysis-B8860B?style=flat-square&logoColor=white)
-
-### Agentic AI & MCP
-![Anthropic](https://img.shields.io/badge/Anthropic_API-D4A574?style=flat-square&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-FF6B35?style=flat-square&logoColor=white)
-![LLM Tool Use](https://img.shields.io/badge/LLM_Tool_Use-00BCD4?style=flat-square&logoColor=white)
-
----
-
-## `$ cat /projects/featured.json`
-
-### 🏗️ [fastapi-tenancy](https://github.com/fastapi-extensions/fastapi-tenancy) — *PyPI Published*
-> Enterprise-grade multi-tenancy library for FastAPI
-
-```
+```bash
 pip install fastapi-tenancy
 ```
 
-[![PyPI](https://img.shields.io/pypi/v/fastapi-tenancy?style=flat-square&color=009688)](https://pypi.org/project/fastapi-tenancy/)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://pypi.org/project/fastapi-tenancy/)
-[![License](https://img.shields.io/github/license/fastapi-extensions/fastapi-tenancy?style=flat-square)](https://github.com/fastapi-extensions/fastapi-tenancy)
+This is the first library under [fastapi-extensions](https://github.com/fastapi-extensions), an organisation I founded to maintain well-tested FastAPI add-ons. Issues, ideas and pull requests are welcome.
 
-- **4 isolation strategies** — schema-per-tenant, DB-per-tenant, RLS, hybrid
-- **Async-first** — `AsyncSession`, `contextvars`, zero blocking I/O
-- **Auto dialect detection** — PostgreSQL, MySQL, SQLite, MSSQL
-- **95%+ test coverage** · JWT Auth · Alembic migrations
+### [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy)
 
----
+[![Commit 555a18ac](https://img.shields.io/badge/555a18ac-merged-8250DF?style=flat-square&logo=git&logoColor=white)](https://github.com/sqlalchemy/sqlalchemy/commit/555a18ac02)
+[![Commit e47d6526](https://img.shields.io/badge/e47d6526-merged-8250DF?style=flat-square&logo=git&logoColor=white)](https://github.com/sqlalchemy/sqlalchemy/commit/e47d652653)
+[![Release](https://img.shields.io/badge/released_in-2.1.0b1-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)](https://github.com/sqlalchemy/sqlalchemy)
 
-### 🤝 [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy) — *Open Source Contributor*
-> Contributor to Python's most widely used ORM
+Two contributions, reviewed through SQLAlchemy's Gerrit workflow and shipped in 2.1.0b1:
 
-[![Commit 555a18ac](https://img.shields.io/badge/commit%20555a18ac-Merged-238636?style=flat-square&logo=github)](https://github.com/sqlalchemy/sqlalchemy/commit/555a18ac02)
-[![Commit e47d6526](https://img.shields.io/badge/commit%20e47d6526-Merged-238636?style=flat-square&logo=github)](https://github.com/sqlalchemy/sqlalchemy/commit/e47d652653)
+- **Guarded against a silent schema bug.** An ENUM or DOMAIN named after a built-in PostgreSQL type now raises a clear error instead of producing broken DDL. [#12761](https://github.com/sqlalchemy/sqlalchemy/issues/12761), [PR #12822](https://github.com/sqlalchemy/sqlalchemy/pull/12822)
+- **Extended inline typing** in `sqlalchemy.sql.base` as part of the project's typing roadmap. [#6810](https://github.com/sqlalchemy/sqlalchemy/issues/6810), [PR #12707](https://github.com/sqlalchemy/sqlalchemy/pull/12707)
 
-- Raised a clear error for **PostgreSQL ENUM/DOMAIN types using a reserved name** — issue [#12761](https://github.com/sqlalchemy/sqlalchemy/issues/12761), PR [#12822](https://github.com/sqlalchemy/sqlalchemy/pull/12822)
-- Expanded **inline PEP 484 type coverage** in `sqlalchemy.sql.base` — issue [#6810](https://github.com/sqlalchemy/sqlalchemy/issues/6810), PR [#12707](https://github.com/sqlalchemy/sqlalchemy/pull/12707)
-- Both merged through SQLAlchemy's Gerrit workflow and released in **2.1.0b1**
+## 🛠️ Tools
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+<br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
 
-## `$ cat /experience/timeline.md`
+## 🔭 Currently exploring
 
-```
-[Apr 2026 – Present]  Software Engineer @ SurePass Technologies Pvt. Ltd.
-                      ├── finpass.ai  →  Account Aggregator subsidiary · NBFC lending clients
-                      ├── Consent system for the RBI Account Aggregator flow
-                      ├── Multi-AA vault  →  secure financial-information storage
-                      ├── Multi-AA / TSP integration for uninterrupted AA delivery
-                      └── Bank statement analyzer  →  faster + lower running cost
+How MCP servers and LLM tool calling can sit safely on top of existing backend services.
 
-[Apr 2024 – Apr 2026]  Python Backend Developer @ In2IT Technologies Pvt. Ltd.
-                      ├── iProvision  →  Network mgmt platform · 10,000+ concurrent users
-                      ├── iDashboard  →  Apache Superset successor · live data streaming
-                      ├── ProWatch    →  Enterprise access control · real-time event pipelines
-                      └── 70% API speedup · 3× concurrent scale · 35% fewer prod bugs
+## 🎓 Education
 
-[Jun 2023 – Dec 2023]  Backend Developer (Node.js/Python) @ CodeQuotient Pvt. Ltd.
-                       ├── REST APIs in Node.js, Express.js, Django REST Framework
-                       ├── 40% query time reduction · 99.5%+ uptime · ELK monitoring
-                       └── Mentored 3 junior developers · established code review workflows
-```
-
----
-
-## `$ cat /interests/agentic-ai.txt`
-
-I'm deeply passionate about **Agentic AI** and **Model Context Protocol (MCP)** — the emerging paradigm where LLMs don't just answer questions but *act* on the world through tools and real-world service integrations.
-
-My focus areas:
-- 🧠 **LLM Tool Use & Function Calling** — structuring agents that reason and execute
-- 🔗 **MCP Server Design** — bridging models to APIs, databases, and enterprise systems
-- 🤖 **Autonomous Workflows** — building systems where AI closes the loop
-
-> *"The future isn't AI that talks — it's AI that does."*
+- **M.Tech, Computer Science** · Dr. A.P.J. Abdul Kalam Technical University · 2026
+- **B.Tech, Computer Science** · Dr. A.P.J. Abdul Kalam Technical University · 2024
+- **UGC-NET, Computer Science** · June 2026 · qualified for Assistant Professor and PhD admission
 
 ---
-
-## `$ ./certifications --list`
-
-| Badge | Certification |
-|-------|---------------|
-| [![HackerRank](https://img.shields.io/badge/HackerRank-Software_Engineer-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com) | HackerRank Software Engineer |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-SQL_Intermediate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com) | HackerRank SQL (Intermediate) |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-Problem_Solving-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://hackerrank.com) | HackerRank Problem Solving (Intermediate) |
-| [![IBM](https://img.shields.io/badge/IBM-Python_for_Data_Science-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://cognitiveclass.ai) | IBM Python for Data Science |
-| [![CognitiveClass](https://img.shields.io/badge/CognitiveClass-SQL_%26_Relational_DBs-00338D?style=flat-square&logoColor=white)](https://cognitiveclass.ai) | SQL and Relational Databases 101 |
-
----
-
-## `$ cat /oss/organizations.md`
-
-### ⚡ [FastAPI Extensions](https://github.com/fastapi-extensions) — *Founder & Maintainer*
-
-> An open-source community maintaining production-grade FastAPI extension libraries — built to the standards of the FastAPI ecosystem.
-
-[![Org](https://img.shields.io/badge/GitHub_Org-fastapi--extensions-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fastapi-extensions)
-[![FastAPI](https://img.shields.io/badge/Built_for-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Community](https://img.shields.io/badge/Community-Open_Source-orange?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/fastapi-extensions)
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| [fastapi-tenancy](https://github.com/fastapi-extensions/fastapi-tenancy) | Enterprise multi-tenancy library · 4 isolation strategies · async-first | [![PyPI](https://img.shields.io/pypi/v/fastapi-tenancy?style=flat-square&color=009688)](https://pypi.org/project/fastapi-tenancy/) |
-
-> 🚧 More extensions coming — contributions and ideas welcome!
-
----
-
-## `$ ping kapildagur`
 
 <div align="center">
-
-*Pinging kapildagur... response received ✅*
-
-I'm always open to collaborating on **open source Python projects**, discussing **backend architecture**, or exploring **Agentic AI / MCP** ideas.
-
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kapildagur)
-[![Email](https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapildagur1306@gmail.com)
-[![GitHub](https://img.shields.io/badge/Explore_my_repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kapildagur)
-[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-00E6A0?style=for-the-badge&logo=googlechrome&logoColor=black)](https://kapildagur.github.io)
-
----
-
-*"First, solve the problem. Then, write the code." — John Johnson*
-
+<sub>📫 Open to conversations about backend architecture, fintech data flows and open source Python. Email is the fastest way to reach me.</sub>
 </div>
