@@ -2,9 +2,9 @@
 
 <h1><img src="assets/neon-name.gif" alt="Kapil Dagur" width="720"></h1>
 
-**Backend engineer** · Python, FastAPI, Django · Fintech
+**Backend engineer** | Python, FastAPI, Django | Fintech
 
-📍 Noida, India &nbsp;·&nbsp; 🏦 RBI Account Aggregator systems &nbsp;·&nbsp; 🐍 Open source Python
+📍 Noida, India &nbsp;|&nbsp; 🏦 RBI Account Aggregator systems &nbsp;|&nbsp; 🐍 Open source Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kapildagur-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDQuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://linkedin.com/in/kapildagur)
 [![Email](https://img.shields.io/badge/Email-kapildagur1306%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kapildagur1306@gmail.com)
@@ -17,7 +17,7 @@ I'm a backend engineer focused on the parts of a system that users never see but
 
 ## 💼 Work
 
-**Software Engineer · SurePass Technologies** &nbsp;<sub>Apr 2026 - present</sub>
+**Software Engineer | SurePass Technologies** &nbsp;<sub>Apr 2026 - present</sub>
 
 I work on the backend of finpass.ai, which delivers customer financial data to NBFC lenders under the RBI Account Aggregator framework.
 
@@ -26,20 +26,18 @@ I work on the backend of finpass.ai, which delivers customer financial data to N
 - Failover across AAs and TSPs, so one provider outage does not interrupt data delivery
 - A leaner bank statement analyzer: faster runs at lower cost
 
-**Python Backend Developer · In2IT Technologies** &nbsp;<sub>Apr 2024 - Apr 2026</sub>
+**Python Backend Developer | In2IT Technologies** &nbsp;<sub>Apr 2024 - Apr 2026</sub>
 
-Enterprise products for network and security teams.
+In-house products for network teams, dashboards and employee monitoring.
 
-- **iProvision:** API latency down from 800 ms to 250 ms and 3x concurrent request capacity for 10,000+ users, using Redis, Celery and query tuning
-- **iDashboard** (an in-house Apache Superset replacement with live streaming) and **ProWatch** (access control with real-time event pipelines)
-- **Delivery:** CI/CD with Docker, GitHub Actions and Jenkins, resulting in 35% fewer production bugs and 60% faster deployments
+- **iProvision:** REST APIs for network inventory and device operations over SNMP and NETCONF/RESTCONF. With 10,000+ concurrent users on it, Redis, Celery and query tuning took latency from 800 ms to 250 ms and tripled request capacity
+- **iDashboard:** backend for a custom dashboard and chart builder
+- **ProWatch:** backend for employee performance monitoring and managing employee systems
+- **Delivery:** Docker, GitHub Actions and Jenkins pipelines at 85%+ test coverage; 35% fewer production bugs, 60% faster deploys
 
-**Backend Developer (apprenticeship) · CodeQuotient** &nbsp;<sub>Jun 2023 - Dec 2023</sub>
+**Backend Developer (apprenticeship) | CodeQuotient** &nbsp;<sub>Jun 2023 - Dec 2023</sub>
 
-Where I learned to build and tune production APIs.
-
-- REST APIs in Node.js, Express and Django REST Framework
-- 40% faster PostgreSQL queries through indexing and connection pooling
+My first backend role: REST APIs for their education platform, built with Node.js, Express and Django REST Framework.
 
 ## 🧩 Open source
 
@@ -105,9 +103,9 @@ How MCP servers and LLM tool calling can sit safely on top of existing backend s
 
 ## 🎓 Education
 
-- **M.Tech, Computer Science** · Dr. A.P.J. Abdul Kalam Technical University · 2026
-- **B.Tech, Computer Science** · Dr. A.P.J. Abdul Kalam Technical University · 2024
-- **UGC-NET, Computer Science** · June 2026 · qualified for Assistant Professor and PhD admission
+- **M.Tech, Computer Science** | Dr. A.P.J. Abdul Kalam Technical University | 2026
+- **B.Tech, Computer Science** | Dr. A.P.J. Abdul Kalam Technical University | 2024
+- **UGC-NET, Computer Science** | June 2026 | qualified for Assistant Professor and PhD admission
 
 ---
 
