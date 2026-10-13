@@ -13,11 +13,11 @@
 
 </div>
 
-I'm a backend engineer focused on the parts of a system that users never see but always depend on: data models, query performance and APIs that stay predictable under load. Today that means regulated financial data flows at SurePass. In my own time, it means contributing to the Python database ecosystem through [fastapi-tenancy](https://github.com/fastapi-extensions/fastapi-tenancy) and SQLAlchemy.
+I'm a backend engineer focused on the parts of a system that users never see but always depend on: data models, query performance and APIs that stay predictable under load. Today that means regulated financial data flows at SurePass. In my own time, it means open source: two FastAPI libraries, [fastapi-tenancy](https://github.com/fastapi-extensions/fastapi-tenancy) and [fastapi-locale](https://github.com/fastapi-extensions/fastapi-locale), and fixes merged into SQLAlchemy.
 
 ## 💼 Work
 
-**Software Engineer | SurePass Technologies** &nbsp;<sub>Apr 2026 - present</sub>
+**Software Engineer | SurePass Technologies** &nbsp;<sub>May 2026 - present</sub>
 
 I work on the backend of finpass.ai, which delivers customer financial data to NBFC lenders under the RBI Account Aggregator framework.
 
@@ -63,7 +63,21 @@ Multi-tenant SaaS on FastAPI usually means rewriting the same plumbing: resolvin
 pip install fastapi-tenancy
 ```
 
-This is the first library under [fastapi-extensions](https://github.com/fastapi-extensions), an organisation I founded to maintain well-tested FastAPI add-ons. Issues, ideas and pull requests are welcome.
+### [fastapi-locale](https://github.com/fastapi-extensions/fastapi-locale)
+
+[![PyPI](https://img.shields.io/pypi/v/fastapi-locale?include_prereleases&style=flat-square&logo=pypi&logoColor=white&color=3775A9)](https://pypi.org/project/fastapi-locale/)
+[![Python](https://img.shields.io/pypi/pyversions/fastapi-locale?style=flat-square&logo=python&logoColor=white&color=3776AB)](https://pypi.org/project/fastapi-locale/)
+[![CI](https://img.shields.io/github/actions/workflow/status/fastapi-extensions/fastapi-locale/ci.yml?branch=main&style=flat-square&logo=githubactions&logoColor=white&label=CI)](https://github.com/fastapi-extensions/fastapi-locale/actions/workflows/ci.yml)
+[![Docs](https://img.shields.io/readthedocs/fastapi-locale?style=flat-square&logo=readthedocs&logoColor=white)](https://fastapi-locale.readthedocs.io)
+[![License](https://img.shields.io/github/license/fastapi-extensions/fastapi-locale?style=flat-square&color=555555)](https://github.com/fastapi-extensions/fastapi-locale/blob/main/LICENSE)
+
+Translations for FastAPI APIs, built on standard gettext catalogs. Each request gets a locale from a query parameter, `Accept-Language` or a cookie, and the response comes back in that language, including FastAPI's 422 validation errors with correct plural forms. Lazy text works inside Pydantic models and `HTTPException`, and a small CLI extracts, updates, compiles and checks catalogs in CI. Currently a release candidate.
+
+```bash
+pip install --pre fastapi-locale
+```
+
+Both libraries live under [fastapi-extensions](https://github.com/fastapi-extensions), an organisation I founded to maintain well-tested FastAPI add-ons. Issues, ideas and pull requests are welcome.
 
 ### [SQLAlchemy](https://github.com/sqlalchemy/sqlalchemy)
 
